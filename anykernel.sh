@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Constructed by linying2024 @ github (Kernel by wu17481748 @ github)
+kernel.string=ExampleKernel by osm0sis @ xda-developers （kernel by wings110）
 do.devicecheck=1
 do.modules=0
 do.systemless=1
